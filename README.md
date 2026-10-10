@@ -41,3 +41,5 @@ October 9-## 🇯🇵 Hiragana Progress - Day 8/9 Completed
 
 Progress: 43/46 (93%)
 
+october 10- - [x] Day 9 わをん ✅ - HIRAGANA COMPLETE 46/46 🎉
+
