@@ -43,3 +43,14 @@ Progress: 43/46 (93%)
 
 october 10- - [x] Day 9 わをん ✅ - HIRAGANA COMPLETE 46/46 🎉
 
+October 10-
+ Hiragana Dakuten (Voiced) + Handakuten (Semi-voiced) Mapping
+const hiraganaDakuten = {
+  // K -> G
+  "か": "が", "き": "ぎ", "く": "ぐ", "け": "げ", "こ": "ご",
+  // S -> Z
+  "さ": "ざ", "し": "じ", "す": "ず", "せ": "ぜ", "そ": "ぞ",
+  // T -> D
+  "た": "だ", "ち": "ぢ", "つ": "づ", "て": "で", "と": "ど",
+  // H -> B (Dakuten) / P (Handakuten)
+  "は"
