@@ -85,3 +85,4 @@ October 11-# 🇯🇵 Japanese Learning Progress
 
 ---
 **Trick:** Hiragana = small (ka), Katakana = CAPITAL (KA) for practice
+![Hiragana Log](hiragana-log.png)
