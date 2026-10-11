@@ -54,3 +54,34 @@ const hiraganaDakuten = {
   "た": "だ", "ち": "ぢ", "つ": "づ", "て": "で", "と": "ど",
   // H -> B (Dakuten) / P (Handakuten)
   "は"
+
+
+October 11-# 🇯🇵 Japanese Learning Progress
+
+> Daily tracker for Hiragana & Katakana
+
+### 📅 Date: 11 Oct 2026
+
+#### ✅ Hiragana Mastered
+- Vowels: あ い う え お (a i u e o)
+- K-line: か き く け こ (ka ki ku ke ko)
+- S-line: さ し す せ そ (sa shi su se so) - learning
+- T-line: た ち つ て と
+- N, H, M, Y, R, W, n
+- Total: 46 chars - A to KO is perfect (20/20)
+
+#### ✅ Katakana Mastered
+- ア イ ウ エ オ (A I U E O)
+- カ キ ク ケ コ (KA KI KU KE KO)
+- Can read loanwords: インド (INDO = India), コーヒー (Coffee)
+
+#### 🎯 Test Scores
+- Round 1 (A-KO): 20/20 💯
+- Round 2 (Mix): 20/20 💯
+- Final Test (25 Mix): 24/25
+
+#### 📚 Next Target
+- SA SHI SU SE SO (さ し す せ そ / サ シ ス セ ソ)
+
+---
+**Trick:** Hiragana = small (ka), Katakana = CAPITAL (KA) for practice
