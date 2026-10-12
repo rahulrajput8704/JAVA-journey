@@ -86,3 +86,12 @@ October 11-# 🇯🇵 Japanese Learning Progress
 ---
 **Trick:** Hiragana = small (ka), Katakana = CAPITAL (KA) for practice
 ![Hiragana Log](hiragana-log.png)
+
+
+Date- October 12 2026
+
+SA SHI SU SE SO (さ し す せ そ / サ シ ス セ ソ)
+completed
+
+#### 📚 Next Target (Katakana)
+- TA CHI TSU TE TO (タチツテト)
