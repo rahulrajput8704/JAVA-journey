@@ -126,3 +126,30 @@ Next: MA-Line (マミムメモ)
 
 
 october 14 -"Katakana: Ma + Ya line locked - 38/46 done"
+
+
+October 15-# Katakana - Day Complete
+
+## Ra Line
+ラ - ra
+リ - ri
+ル - ru
+レ - re
+ロ - ro
+
+## Wa Line + N
+ワ - wa
+ヲ - wo
+ン - n
+
+## Practice Words
+ラーメン - raamen
+ロボット - robotto
+ワイン - wain
+ペン - pen
+パン - pan
+
+## Note
+ソ (so) = 2 strokes
+ン (n) = 1 stroke
+Confusion clear - Test 46/46
