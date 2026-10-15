@@ -153,3 +153,13 @@ October 15-# Katakana - Day Complete
 ソ (so) = 2 strokes
 ン (n) = 1 stroke
 Confusion clear - Test 46/46
+
+
+
+## Dakuten - DONE
+ガ ギ グ ゲ ゴ - G Line
+ザ ジ ズ ゼ ゾ - Z Line
+ダ ヂ ヅ デ ド - D Line
+バ ビ ブ ベ ボ - B Line
+パ ピ プ ペ ポ - P Line
+Test: 10/10 Passed
