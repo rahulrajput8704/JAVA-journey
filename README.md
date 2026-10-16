@@ -163,3 +163,48 @@ Confusion clear - Test 46/46
 バ ビ ブ ベ ボ - B Line
 パ ピ プ ペ ポ - P Line
 Test: 10/10 Passed
+
+
+October 16-# Japanese Reading - 4 Rules
+
+## Rule 1: Dakuten ゛ (Ten-Ten) & Handakuten ゜ (Maru)
+
+- K -> G : か ka → が ga
+- S -> Z : さ sa → ざ za
+- T -> D : た ta → だ da
+- H -> B : は ha → ば ba
+
+Handakuten lagne se H -> P ho jata hai:
+- は ha → ぱ pa
+- ひ hi → ぴ pi
+
+Example: がっこう (gakkou), びょういん (byouin), でんしゃ (densha)
+
+## Rule 2: Chhota Tsu っ (Sokuon)
+
+
+- がっこう = ga + kkou = gakkou
+- ちょっと = cho + tto = chotto
+- しゅくだい = shukudai 
+
+## Rule 3: small Ya Yu Yo ゃ ゅ ょ (Yoon)
+Chhota ゃゅょ 
+
+- き + ゅ = kyu : きゅうり = kyuuri
+- り + ょ = ryo : りょうり = ryouri
+- し + ゅ = shu (shyu nahi) : しゅくだい = shukudai
+- ち + ゅ = chu (chyu nahi) : ちゅうがくせい = chuugakusei
+- じ + ゅ = ju (jyu nahi) : ジュース = juusu
+
+Special: shi, chi, ji ,'y' 
+
+## Rule 4: Long Vowel ー aur ou / ii
+- Katakana me ー 
+    - ビール = bi + i + ru = biiru
+    - ジュース = ju + u + su = juusu
+
+- Hiragana me ou = oo, ei = ee
+    - がっこう = gakkou (kou = koo)
+    - きょうと = kyouto (kyo + u = kyoo + to)
+    - せんせい = sensei (sei = see)
+    - とうきょう = toukyou
