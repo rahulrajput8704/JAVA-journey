@@ -208,3 +208,21 @@ Special: shi, chi, ji ,'y'
     - きょうと = kyouto (kyo + u = kyoo + to)
     - せんせい = sensei (sei = see)
     - とうきょう = toukyou
+
+
+October 17-[
+  { "japanese": "パン", "romaji": "pan", "english": "Bread", "type": "noun" },
+  { "japanese": "コーヒー", "romaji": "koohii", "english": "Coffee", "type": "noun" },
+  { "japanese": "たまご", "romaji": "tamago", "english": "Egg", "type": "noun" },
+  { "japanese": "みず", "romaji": "mizu", "english": "Water", "type": "noun" },
+  { "japanese": "いきます", "romaji": "ikimasu", "english": "To go", "type": "verb" },
+  { "japanese": "きます", "romaji": "kimasu", "english": "To come", "type": "verb" },
+  { "japanese": "たべます", "romaji": "tabemasu", "english": "To eat", "type": "verb" },
+  { "japanese": "のみます", "romaji": "nomimasu", "english": "To drink", "type": "verb" },
+  { "japanese": "つくります", "romaji": "tsukurimasu", "english": "To make", "type": "verb" },
+  { "japanese": "かいます", "romaji": "kaimasu", "english": "To buy", "type": "verb" },
+  { "japanese": "あいます", "romaji": "aimasu", "english": "To meet", "type": "verb" },
+  { "japanese": "はたらきます", "romaji": "hatarakimasu", "english": "To work", "type": "verb" },
+  { "japanese": "ききます", "romaji": "kikimasu", "english": "To listen", "type": "verb" },
+  { "japanese": "べんきょうします", "romaji": "benkyou shimasu", "english": "To study", "type": "verb" }
+]
