@@ -226,3 +226,23 @@ October 17-[
   { "japanese": "ききます", "romaji": "kikimasu", "english": "To listen", "type": "verb" },
   { "japanese": "べんきょうします", "romaji": "benkyou shimasu", "english": "To study", "type": "verb" }
 ]
+
+
+October 18-# Japanese Vocab - Day 2
+
+15. ききます - kikimasu - Sunna
+16. テレビ - terebi - TV
+17. ともだち - tomodachi - Dost
+18. ねます - nemasu - Sona
+19. かきます - kakimasu - Likhna
+20. あるきます - arukimasu - Chalna
+21. そうじ します - souji shimasu - Safai karna
+22. りょうり します - ryouri shimasu - Khana banana
+23. およぎます - oyogimasu - Tairna
+24. はなします - hanashimasu - Bolna
+25. かいもの します - kaimono shimasu - Shopping karna
+26. スーパー - suupaa - Supermarket
+27. コンビニ - konbini - Convenience Store
+28. せんせい - sensei - Teacher
+29. おきます - okimasu - Uthna
+30. よみます - yomimasu - Padhna
