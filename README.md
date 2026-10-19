@@ -246,3 +246,34 @@ October 18-# Japanese Vocab - Day 2
 28. せんせい - sensei - Teacher
 29. おきます - okimasu - Uthna
 30. よみます - yomimasu - Padhna
+
+
+October 19-
+
+## Vocab - 10 Words
+| Japanese (Romaji) | Meaning |
+| :--- | :--- |
+| inu | dog |
+| neko | cat |
+| hon | book |
+| kuruma | car |
+| densha | train |
+| mise | shop |
+| tomodachi | friend |
+| kazoku | family |
+| sensei | teacher |
+| gakusei | student |
+
+## Kanji - 2
+| Kanji | Meaning |
+| :--- | :--- |
+| 人 | person |
+| 山 | mountain |
+
+## Grammar - 1 Rule
+**Watashi wa ___ desu.**
+- Watashi wa gakusei desu. = Main student hoon.
+- Watashi wa sensei ja arimasen. = Main teacher nahi hoon.
+
+## Test Score
+14 / 14 ✅
