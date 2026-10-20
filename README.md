@@ -277,3 +277,28 @@ October 19-
 
 ## Test Score
 14 / 14 ✅
+
+
+October 20-
+# 10 Vocab + 2 Kanji
+
+## Vocab
+| No | Japanese | Reading | Meaning | Example |
+|---|---|---|---|---|
+| 1 | 予算 | yosan | Budget | 予算を超えた |
+| 2 | 合計 | goukei | Total / Sum | 合計はいくらですか |
+| 3 | 部品 | buhin | Parts / Components | PCの部品 |
+| 4 | 作成 | sakusei | To create / Make | 資料を作成する |
+| 5 | 完成 | kansei | Complete / Finished | 完成した |
+| 6 | 勉強 | benkyou | Study | 日本語を勉強する |
+| 7 | 復習 | fukushuu | Revision | 復習をします |
+| 8 | 理解 | rikai | Understanding | 理解したいです |
+| 9 | 質問 | shitsumon | Question | 質問があります |
+| 10 | 説明 | setsumei | Explanation | 説明してください |
+
+## Kanji
+1.  **作 (SAKU / tsukuru)** - Make - Word: 作成 (sakusei)
+2.  **完 (KAN)** - Complete - Word: 完成 (kansei)
+
+## Sentence for today
+予算を理解したいです。(Yosan wo rikai shitai des
