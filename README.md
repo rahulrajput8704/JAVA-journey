@@ -146,6 +146,9 @@ October 15-# Katakana - Day Complete
 ラーメン - raamen
 ロボット - robotto
 ワイン - wain
+
+
+
 ペン - pen
 パン - pan
 
@@ -302,3 +305,28 @@ October 20-
 
 ## Sentence for today
 予算を理解したいです。(Yosan wo rikai shitai des
+
+
+21 Oct 2026
+
+## Theme: PC / Daily Life
+
+### Vocab (10)
+1. パソコン (pasokon) - Computer / PC
+2. たかい / 高い (takai) - Expensive
+3. やすい / 安い (yasui) - Cheap
+4. かう / 買う (kau) - To buy
+5. つくる / 作る (tsukuru) - To make / build
+6. おかね / お金 (okane) - Money
+7. いくら (ikura) - How much
+8. これ (kore) - This
+9. それ (sore) - That
+10. とても (totemo) - Very
+
+Sentence: このパソコンはとてもたかいです。
+
+### Kanji (2)
+1. 買 - バイ, か・う - kau - to buy
+2. 高 - コウ, たか・い - takai - expensive/high
+
+Total: 60 vocab done + 6 kanji 
