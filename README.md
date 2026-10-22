@@ -320,3 +320,21 @@ Sentence: このパソコンはとてもたかいです。
 2. 高 - コウ, たか・い - takai - expensive/high
 
 Total: 60 vocab done + 6 kanji 
+
+
+october 22-
+
+## 10 Vocab
+1. 今日 - きょう (kyou) - Today
+2. 明日 - あした (ashita) - Tomorrow
+3. 昨日 - きのう (kinou) - Yesterday
+4. 朝 - あさ (asa) - Morning
+5. 昼 - ひる (hiru) - Afternoon
+6. 夜 - よる (yoru) - Night
+7. 家 - いえ (ie) - House
+8. 学校 - がっこう (gakkou) - School
+9. 先生 - せんせい (sensei) - Teacher
+10. 本 - ほん (hon) - Book
+
+## Kanji of the Day
+**学 - ガク (gaku)
