@@ -352,3 +352,15 @@ october 23-## 10 Vocab
 9. ほぞん (hozon) - Save
 10. れんらく (renraku) - Contact
 
+
+| No | Hiragana | Romanji | English | Status |
+|---|---|---|---|---|
+| 1 | けんきゅう | kenkyuu | Research | ✅ |
+| 2 | じっけん | jikken | Experiment | ✅ |
+| 3 | けっか | kekka | Result | ✅ |
+| 4 | ほうほう | houhou | Method | ✅ |
+| 5 | せんたく | sentaku | Selection | ✅ |
+| 6 | ひかく | hikaku | Comparison | ✅ |
+| 7 | かいぜん | kaizen | Improvement | ✅ |
+| 8 | がめん | gamen | Screen | ✅ |
+| 9 |
