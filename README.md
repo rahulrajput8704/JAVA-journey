@@ -338,3 +338,17 @@ october 22-
 
 ## Kanji of the Day
 **学 - ガク (gaku)
+
+october 23-## 10 Vocab
+
+1. けんきゅう (kenkyuu) - Research
+2. じっけん (jikken) - Experiment
+3. けっか (kekka) - Result
+4. ほうほう (houhou) - Method
+5. せんたく (sentaku) - Selection
+6. ひかく (hikaku) - Comparison
+7. かいぜん (kaizen) - Improvement
+8. がめん (gamen) - Screen
+9. ほぞん (hozon) - Save
+10. れんらく (renraku) - Contact
+
