@@ -364,3 +364,21 @@ october 23-## 10 Vocab
 | 7 | かいぜん | kaizen | Improvement | ✅ |
 | 8 | がめん | gamen | Screen | ✅ |
 | 9 |
+
+
+October 24-# Japanese Vocab 81-90 - MEXT High Frequency
+
+| No | Japanese (Hiragana) | Romaji | English | Hindi |
+|----|---------------------|--------|---------|-------|
+| 81 | けいけん | keiken | experience | anubhav |
+| 82 | かいはつ | kaihatsu | development | vikas |
+| 83 | きぼう | kibou | hope | umeed |
+| 84 | もくひょう | mokuhyou | goal | lakshya |
+| 85 | どりょく | doryoku | effort | mehnat |
+| 86 | せいこう | seikou | success | safalta |
+| 87 | しっぱい | shippai | failure | asafalta |
+| 88 | れんしゅう | renshuu | practice | abhyaas |
+| 89 | じゅんび | junbi | preparation | taiyaari |
+| 90 | かんしゃ | kansha | gratitude | abhaar |
+
+# Total Vocab Completed: 90
