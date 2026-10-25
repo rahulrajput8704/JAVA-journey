@@ -382,3 +382,30 @@ October 24-# Japanese Vocab 81-90 - MEXT High Frequency
 | 90 | かんしゃ | kansha | gratitude | abhaar |
 
 # Total Vocab Completed: 90
+
+
+October 25-# N5 Vocabulary - 70 Words Done
+
+## Day 1-2 (60 words)
+1. ikimasu - to go
+2. kimasu - to come
+3. pan - bread
+4. bread
+5. benkyou suru - to study
+6. tabemasu - to eat
+... (tere 60 wale)
+60. byouin - hospital
+
+## Day 3 (10 words) - NEW
+61. imouto - younger sister
+62. otouto - younger brother
+63. hito - person
+64. tsuma - wife
+65. haha - my mother
+66. chichi - my father
+67. otto - husband
+68. ichinensei - first year student
+69. ani - older brother
+70. ane - older sister
+
+Total: 70/800 N5 words done
