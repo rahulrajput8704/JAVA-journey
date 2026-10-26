@@ -409,3 +409,16 @@ October 25-# N5 Vocabulary - 70 Words Done
 70. ane - older sister
 
 Total: 70/800 N5 words done
+
+
+October 26- # Japanese Vocab 
+1. hitori (一人) - one person
+2. futari (二人) - two people
+3. otoko (男) - man
+4. onna (女) - woman
+5. otokonoko (男の子) - boy
+6. onnanoko (女の子) - girl
+7. kaishain (会社員) - company employee
+8. shain (社員) - employee
+9. asatte (明後日) - day after tomorrow
+10. ginkouin (銀行員) - bank employee
