@@ -422,3 +422,19 @@ October 26- # Japanese Vocab
 8. shain (社員) - employee
 9. asatte (明後日) - day after tomorrow
 10. ginkouin (銀行員) - bank employee
+
+
+October 27-
+
+| No | Romaji | Japanese | Meaning |
+|----|--------|----------|---------|
+| 1 | ototoi | 一昨日 | day before yesterday |
+| 2 | kyonen | 去年 | last year |
+| 3 | ima | 今 | now |
+| 4 | rainen | 来年 | next year |
+| 5 | kotoshi | 今年 | this year |
+| 6 | mainichi | 毎日 | every day |
+| 7 | shuu | 週 | week |
+| 8 | raishuu | 来週 | next week |
+| 9 | maiban | 毎晩 | every evening |
+| 10 | maiasa | 毎朝 | every morning |
