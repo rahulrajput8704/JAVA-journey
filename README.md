@@ -438,3 +438,19 @@ October 27-
 | 8 | raishuu | 来週 | next week |
 | 9 | maiban | 毎晩 | every evening |
 | 10 | maiasa | 毎朝 | every morning |
+
+
+October 28-
+
+| No | Japanese | Romaji | English | Kanji |
+|---|---|---|---|---|
+| 1 | げつようび | getsuyoubi | Monday | 月曜日 |
+| 2 | かようび | kayoubi | Tuesday | 火曜日 |
+| 3 | すいようび | suiyoubi | Wednesday | 水曜日 |
+| 4 | もくようび | mokuyoubi | Thursday | 木曜日 |
+| 5 | きんようび | kinyoubi | Friday | 金曜日 |
+| 6 | どようび | doyoubi | Saturday | 土曜日 |
+| 7 | にちようび | nichiyoubi | Sunday | 日曜日 |
+| 8 | はん | han | half | 半 |
+| 9 | じ | ji | o'clock | 時 |
+| 10 | じかん | jikan |
