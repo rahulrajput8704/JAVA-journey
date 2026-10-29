@@ -454,3 +454,21 @@ October 28-
 | 8 | はん | han | half | 半 |
 | 9 | じ | ji | o'clock | 時 |
 | 10 | じかん | jikan |
+
+
+October 29-
+
+| No | Romaji | Hiragana / Katakana | English | Japanese Example |
+|---|---|---|---|---|
+| 1 | doa | ドア | door | Kyoushitsu no doa |
+| 2 | isu | いす | chair | isu ni suwaru |
+| 3 | toshokan | としょかん | library | Nagasaki Daigaku toshokan |
+| 4 | yuubinkyoku | ゆうびんきょく | post office | yuubinkyoku wa doko? |
+| 5 | machi | まち | town | Kumamoto machi |
+| 6 | kuni | くに | country | watashi no kuni wa Indo desu |
+| 7 | hoteru | ホテル | hotel | hoteru ni tomaru |
+| 8 | resutoran | レストラン | restaurant | resutoran de taberu |
+| 9 | kouen | こうえん | park | kouen de sanpo suru |
+| 10 | heya | へや | room | watashi no heya |
+| 11 | gakkou | がっこう | school | Nihon no gakkou |
+| 12 | depaato | デパート | dept.
