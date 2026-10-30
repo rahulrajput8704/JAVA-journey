@@ -53,3 +53,35 @@ Remark: Concept 100% clear, only typing typos.
 | 14 | 日 | sun/day | nichi, jitsu | hi, bi | 日曜日 (nichiyoubi) |
 | 15 | 月 | moon/month | getsu, gatsu | tsuki | 月曜日 (getsuyoubi) |
 | 16 | 作 | to make | saku, sa | tsuku | 作る (tsuk
+
+
+
+October 31-# N5 Kanji - First 23 (Perfect Score 23/23)
+
+
+| No | Kanji | Meaning | Onyomi/Kunyomi | My Practice |
+|----|-------|---------|----------------|-------------|
+| 1 | 人 | person | hito, jin | ✅ |
+| 2 | 百 | hundred | hyaku | ✅ |
+| 3 | 木 | tree | ki, moku | ✅ |
+| 4 | 六 | six | roku | ✅ |
+| 5 | 金 | gold, money | kane, kin | ✅ |
+| 6 | 三 | three | san | ✅ |
+| 7 | 土 | soil, earth | tsuchi, do | ✅ |
+| 8 | 水 | water | mizu, sui | ✅ |
+| 9 | 九 | nine | kyuu, ku | ✅ |
+| 10 | 火 | fire | hi, ka | ✅ |
+| 11 | 一 | one | ichi | ✅ |
+| 12 | 月 | moon, month | tsuki, getsu | ✅ |
+| 13 | 学 | study | gaku, mana-bu | ✅ |
+| 14 | 二 | two | ni | ✅ |
+| 15 | 十 | ten | juu | ✅ |
+| 16 | 山 | mountain | yama, san | ✅ |
+| 17 | 四 | four | yon, shi | ✅ |
+| 18 | 八 | eight | hachi | ✅ |
+| 19 | 買 | buy | ka-u | ✅ |
+| 20 | 五 | five | go | ✅ |
+| 21 | 日 | sun, day | hi, nichi | ✅ |
+| 22 | 七 | seven | shichi, nana | ✅ |
+| 23 | 作 | to make | tsuku-ru, saku | ✅ |
+
