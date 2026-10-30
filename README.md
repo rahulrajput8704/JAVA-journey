@@ -472,3 +472,25 @@ October 29-
 | 10 | heya | へや | room | watashi no heya |
 | 11 | gakkou | がっこう | school | Nihon no gakkou |
 | 12 | depaato | デパート | dept.
+
+
+October 30-
+
+| No. | Vocab | Kana | Kanji/Katakana | Meaning |
+|-----|-------|------|----------------|---------|
+| 1 | watashi | わたし | 私 | I |
+| 2 | anata | あなた | 貴方 | you (formal) |
+| 3 | ichi | いち | 一 | one |
+| 4 | ni | に | 二 | two |
+| 5 | san | さん | 三 | three |
+| 6 | yon | よん | 四 | four |
+| 7 | go | ご | 五 | five |
+| 8 | roku | ろく | 六 | six |
+| 9 | nana | なな | 七 | seven |
+| 10 | hachi | はち | 八 | eight |
+| 11 | kyuu | きゅう | 九 | nine |
+| 12 | juu | じゅう | 十 | ten |
+| 13 | hyaku | ひゃく | 百 | hundred |
+| 14 | biiru | びーる | ビール | beer |
+| 15 | sake | さけ | 酒 | sake/alcohol |
+
