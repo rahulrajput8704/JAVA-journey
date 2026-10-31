@@ -494,3 +494,22 @@ October 30-
 | 14 | biiru | びーる | ビール | beer |
 | 15 | sake | さけ | 酒 | sake/alcohol |
 
+
+October 31-
+
+| Japanese | Meaning |
+| :--- | :--- |
+| こんにちは (konnichiwa) | Hello / Good afternoon |
+| おねがいします (onegaishimasu) | Please |
+| さようなら (sayounara) | Goodbye |
+| おはようございます (ohayou gozaimasu) | Good morning (polite) |
+| ありがとうございます (arigatou gozaimasu) | Thank you (polite) |
+| まど (mado) | Window |
+| つくえ (tsukue) | Desk |
+| こんばんは (konbanwa) | Good evening |
+| すみません (sumimasen) | Excuse me / Sorry |
+| いいえ (iie) | No |
+| はい (hai) | Yes |
+
+
+
