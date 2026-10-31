@@ -85,3 +85,14 @@ October 31-# N5 Kanji - First 23 (Perfect Score 23/23)
 | 22 | 七 | seven | shichi, nana | ✅ |
 | 23 | 作 | to make | tsuku-ru, saku | ✅ |
 
+
+31st October -
+
+| Kanji | Reading | Meaning | Example |
+|-------|---------|---------|---------|
+| 半 | han | half | 半分 - hanbun - half |
+| 円 | en | yen | 百円 - hyaku-en - 100 yen |
+| 万 | man | ten thousand | 一万 - ichi-man - 10,000 |
+
+
+
