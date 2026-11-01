@@ -512,4 +512,20 @@ October 31-
 | はい (hai) | Yes |
 
 
+1 nov-
+
+## New Vocab (11) - 100% Memorized
+1. tooi - far / door
+2. chikai - near (chika = close)
+3. shizuka - quiet
+4. hajimemashite - nice to meet you
+5. kyoushitsu - classroom
+6. douzo - please (go ahead)
+7. yasashii - kind / easy (context)
+8. muzukashii - difficult
+9. uchi - house / home (my home)
+10. tadaima - I'm home
+11. okaerinasai - welcome home (reply to tadaima)
+
+
 
