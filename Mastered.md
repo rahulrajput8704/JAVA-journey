@@ -95,4 +95,11 @@ October 31-# N5 Kanji - First 23 (Perfect Score 23/23)
 | 万 | man | ten thousand | 一万 - ichi-man - 10,000 |
 
 
+1st November -
+
+1. 上 - above - ue/jou - 上に行きます
+2. 下 - below - shita/ka - 下に行きます  
+3. 分 - minute - fun/bun - 5分 (go fun)
+4. 中 - middle, inside - naka/chuu - 家の中 (ie no naka)
+
 
