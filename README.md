@@ -528,4 +528,22 @@ October 31-
 11. okaerinasai - welcome home (reply to tadaima)
 
 
+2 nov-
+
+1. hima -暇 - free time / khali samay
+2. isogashii - 忙しい - busy
+3. mazui - まずい - bekar taste / bura
+4. omoshiroi - 面白い - interesting / mazedar
+5. tsumaranai - つまらない - boring
+6. oishii - 美味しい - tasty
+7. kirei - 綺麗 - beautiful / saaf
+8. taisetsu - 大切 - important / zaruri
+9. genki - 元気 - energetic / healthy
+10. yuumei - 有名 - famous
+11. nigiyaka - 賑やか - lively / bheed-bhad wali jagah
+
+Example sentences:
+- Watashi wa hima desu
+- Nihon no tabemono wa oishii desu
+
 
