@@ -102,4 +102,12 @@ October 31-# N5 Kanji - First 23 (Perfect Score 23/23)
 3. 分 - minute - fun/bun - 5分 (go fun)
 4. 中 - middle, inside - naka/chuu - 家の中 (ie no naka)
 
+2 November-# My Kanji Progress
+
+## Day 1 - 2 Kanji
+
+川 - kawa - river - kawa, ogawa
+子 - ko/shi - child - kodomo
+千 - sen - thousand - sen en
+
 
