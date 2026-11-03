@@ -111,3 +111,17 @@ October 31-# N5 Kanji - First 23 (Perfect Score 23/23)
 千 - sen - thousand - sen en
 
 
+3 November - - 父 (Father)
+- Meaning: Father
+- Onyomi: FU
+- Kunyomi: chichi
+- Vocab: 父、 お父さん
+- Example: 父は会社に行きます。
+
+### - 友 (Friend)
+- Meaning: Friend
+- Onyomi: YUU
+- Kunyomi: tomo
+- Vocab: 友達 (tomodachi)
+- Example: 友達と公園に行きます。
+
