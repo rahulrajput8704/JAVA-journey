@@ -546,4 +546,24 @@ Example sentences:
 - Watashi wa hima desu
 - Nihon no tabemono wa oishii desu
 
+November 3-
+
+| No | Romaji | Japanese | Meaning | Kanji |
+|---|---|---|---|---|
+| 1 | pen | ペン | pen | katakana |
+| 2 | banana | バナナ | banana | katakana |
+| 3 | nihon | 日本 | Japan | 日+本 - Sun origin |
+| 4 | nihongo | 日本語 | Japanese language | 日+本+語 |
+| 5 | tsukau | 使う | to use | 使 |
+| 6 | ookii | 大きい | big | 大 |
+| 7 | chiisai | 小さい | small | 小 |
+| 8 | furui | 古い | old | 古 |
+| 9 | atarashii | 新しい | new | 新 |
+| 10 | suwaru | 座る | to sit | 座 |
+| 11 | wakaru | 分かる | to understand | 分 - minute/part wala kanji |
+| 12 | warui | 悪い | bad | 悪 |
+| 13 | yoi | 良い | good | 良 |
+| 14 | motsu | 持つ | to hold/have | 持 |
+| 15 | nooto | ノート | notebook | katakana |
+
 
