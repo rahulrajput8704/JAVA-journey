@@ -567,3 +567,54 @@ November 3-
 | 15 | nooto | ノート | notebook | katakana |
 
 
+4 November -
+
+### 1. Kaerimasu (帰ります)
+- Meaning: to return / to go home
+- Dictionary: kaeru
+- Example: 家に帰ります (ie ni kaerimasu)
+
+### 2. Nemasu (寝ます)
+- Meaning: to sleep / go to bed
+- Dictionary: neru
+- Example: 11時に寝ます
+
+### 3. Akemasu (開けます)
+- Meaning: to open
+- Dictionary: akeru
+- Example: 窓を開けます (mado o akemasu)
+
+### 4. Shimemasu (閉めます)
+- Meaning: to close
+- Dictionary: shimeru
+- Example: ドアを閉めます
+
+### 5. Juusu (ジュース)
+- Meaning: juice
+- Example: ジュースを飲みます (juusu o nomimasu)
+
+### 6. Shirimasen (知りません)
+- Meaning: I don't know
+- Dictionary: shiru
+- Example: わかりません、知りません
+
+### 7. Wakarimashita (分かりました)
+- Meaning: I understood
+- Dictionary: wakaru
+- Example: はい、分かりました
+
+### 8. Mimasu (見ます)
+- Meaning: to see / to watch
+- Dictionary: miru
+
+### 9. Tsukemasu (点けます)
+- Meaning: to turn on (light)
+- Dictionary: tsukeru
+
+### 10. Keshimasu (消します)
+- Meaning: to turn off (light)
+- Dictionary: kesu
+
+
+
+
