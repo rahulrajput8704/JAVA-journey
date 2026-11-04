@@ -125,3 +125,26 @@ October 31-# N5 Kanji - First 23 (Perfect Score 23/23)
 - Vocab: 友達 (tomodachi)
 - Example: 友達と公園に行きます。
 
+
+4 November -
+
+口 (Kuchi)
+- Meaning: Mouth
+- Onyomi: コウ (kou)
+- Kunyomi: くち (kuchi)
+- Strokes: 3
+- Example: 口 (くち) - mouth
+- Example: 人口 (じんこう) - population
+
+(Hon)
+- Meaning: Book / Origin / Real
+- Onyomi: ホン (hon)
+- Kunyomi: もと (moto)
+- Strokes: 5
+- Example: 本 (ほん) - book
+- Example: 日本 (にほん) - Japan
+- Example: 本当 (ほんとう) - really / truth
+
+Total Kanji: 37/100 (37% done!)
+Total Vocab: 186/800
+
