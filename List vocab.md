@@ -159,3 +159,28 @@
 159. genki
 160. yuumei
 161. nigiyaka
+162.kaerimasu
+163.nemasu
+164.akemasu
+165.shimemasu
+166.juusu
+167.shirimasen
+168.wakaerimashita
+169.mimasu
+170.tsukemasu
+171.keshimasu
+172.pen
+173.nooto
+174.banana
+175.nihon
+176.nihongo
+177.wakaru
+178.motsu
+179.suwaru
+180.ookii
+181.chiisai
+182.yoi
+183.warui
+184.atarashii
+185.furui
+186.tsukau
