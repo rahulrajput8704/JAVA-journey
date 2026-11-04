@@ -1,0 +1,37 @@
+1.person
+2.yama
+3.study
+4.make
+5.buy
+6.fire
+7.tree
+8.soil
+9.water
+10.gold
+11.sun
+12.moon
+13.one
+14.two
+15.three
+16.four
+17.five
+18.six
+19.seven
+20.eight
+21.nine
+22.ten
+23.hundred
+24.ten thousand 
+25.yen
+26.half
+27.above ,up
+28.below, down 
+29.minute,part
+30.middle,inside
+31.River
+32.thousand
+33.child
+34.friend
+35.father
+36.mouth
+37.book
