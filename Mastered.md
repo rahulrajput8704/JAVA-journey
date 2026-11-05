@@ -148,3 +148,7 @@ October 31-# N5 Kanji - First 23 (Perfect Score 23/23)
 Total Kanji: 37/100 (37% done!)
 Total Vocab: 186/800
 
+
+5 November - White - 白 (shiro / HAKU)
+Old - 古 (furui / KO)
+
