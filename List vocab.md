@@ -184,3 +184,13 @@
 184.atarashii
 185.furui
 186.tsukau
+187.niwa
+188.otera
+189.niku
+190.toire
+191.michi
+192.oyu
+193.ocha
+194.hashi
+195.otearai
+196.umi
