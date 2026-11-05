@@ -616,5 +616,20 @@ November 3-
 - Dictionary: kesu
 
 
+November 5-
+
+197. Niwa (庭) - garden
+198. Otearai (お手洗い) - restroom
+199. Niku (肉) - meat
+200. Toire (トイレ) - toilet
+201. Michi (道) - road / street
+202. Oyu (お湯) - hot water
+203. Ocha (お茶) - tea
+204. Hashi (箸) - chopsticks
+205. Otera (お寺) - temple
+206. Umi (海) - sea / ocean
+
+
+
 
 
