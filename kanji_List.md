@@ -35,3 +35,6 @@
 35.father
 36.mouth
 37.book
+38.white
+39.old
+39
